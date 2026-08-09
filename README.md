@@ -1,6 +1,11 @@
 # MountPico
 I have created a custom RP2040 development board with awesome graphics and two header for each GPIO pins. Why have I design this? Why not? It looks cool! and I learnt some of KiCad on the go.
 
+### Image of PCB
+<img width="694" height="632" alt="image" src="https://github.com/user-attachments/assets/ff346c75-074c-4c27-9178-6cb39532c7c9" />
+
+
+
 ## BOM
 |Comment                    |Designator                      |Footprint                                  |JLCPCB Part #|
 |---------------------------|--------------------------------|-------------------------------------------|-------------|
