@@ -1,5 +1,7 @@
 # MountPico
-I have created a custom RP2040 development board with awesome graphics and two header for each GPIO pins. Why have I design this? Why not? It looks cool! and I learnt some of KiCad on the go.
+I have created a custom RP2040 development board with awesome graphics and two header for each GPIO pins. I took inspiration from "Nimsdai", created a mountain graphics with Nimsdai's famous quote "Giving up is not in the blood" on one side and a rocket travelling across space on the other side. I also added 2 header pins for each pin, so it will be easier to check the signals and connect two components to the same pin at the same time.
+Why have I design this? Why not? It looks cool! and I learnt some of KiCad on the go.
+
 
 ### Image of PCB
 <img width="694" height="632" alt="image" src="https://github.com/user-attachments/assets/ff346c75-074c-4c27-9178-6cb39532c7c9" />
